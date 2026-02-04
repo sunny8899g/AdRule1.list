@@ -1,0 +1,1 @@
+# AdRule1.list
